@@ -1,0 +1,9 @@
+cache
+log
+ota
+.orcaslicer_machine_id
+.*history*
+.*.lock
+.*.swp
+*.lock
+*.swp

@@ -1,0 +1,35 @@
+{
+    "compatible_printers": [],
+    "default_filament_colour": [
+        "#86868B"
+    ],
+    "filament_flow_ratio": [
+        "0.97"
+    ],
+    "filament_max_volumetric_speed": [
+        "14.5"
+    ],
+    "filament_retraction_length": [
+        "0.25"
+    ],
+    "filament_settings_id": [
+        "PLA PlastWeld Silver"
+    ],
+    "filament_vendor": [
+        "PlastWeld"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @Qidi Q2 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "PLA PlastWeld Silver",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "235"
+    ],
+    "pressure_advance": [
+        "0.0445"
+    ],
+    "version": "2.3.1.10"
+}

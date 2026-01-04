@@ -1,0 +1,20 @@
+{
+    "compatible_printers": [],
+    "default_filament_colour": [
+        "#00FF00"
+    ],
+    "filament_settings_id": [
+        "QIDI ABS Rapido Green"
+    ],
+    "from": "User",
+    "inherits": "QIDI ABS Rapido @Qidi Q2 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "QIDI ABS Rapido Green",
+    "nozzle_temperature": [
+        "270"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "275"
+    ],
+    "version": "2.3.1.10"
+}

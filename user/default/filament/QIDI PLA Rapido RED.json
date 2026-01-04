@@ -1,0 +1,14 @@
+{
+    "compatible_printers": [],
+    "default_filament_colour": [
+        "#FF0000"
+    ],
+    "filament_settings_id": [
+        "QIDI PLA Rapido RED"
+    ],
+    "from": "User",
+    "inherits": "QIDI PLA Rapido @Qidi Q2 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "QIDI PLA Rapido RED",
+    "version": "2.3.1.10"
+}

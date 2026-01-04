@@ -1,0 +1,47 @@
+{
+    "compatible_printers": [],
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_max_volumetric_speed": [
+        "12.1"
+    ],
+    "filament_retraction_length": [
+        "0.25"
+    ],
+    "filament_settings_id": [
+        "PET-G Black"
+    ],
+    "filament_type": [
+        "PETG"
+    ],
+    "filament_vendor": [
+        "PlastWeld"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "70"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "70"
+    ],
+    "inherits": "Generic PLA @Qidi Q2 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "PET-G Black",
+    "nozzle_temperature": [
+        "243"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "pressure_advance": [
+        "0.066"
+    ],
+    "slow_down_layer_time": [
+        "0"
+    ],
+    "version": "2.3.1.10"
+}

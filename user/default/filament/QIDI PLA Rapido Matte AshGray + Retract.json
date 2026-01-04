@@ -1,0 +1,38 @@
+{
+    "activate_air_filtration": [
+        "0"
+    ],
+    "compatible_printers": [],
+    "default_filament_colour": [
+        "#333333"
+    ],
+    "filament_flow_ratio": [
+        "1.04"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_settings_id": [
+        "QIDI PLA Rapido Matte AshGray + Retract"
+    ],
+    "filament_z_hop": [
+        "0.2"
+    ],
+    "filament_z_hop_types": [
+        "Normal Lift"
+    ],
+    "from": "User",
+    "inherits": "QIDI PLA Rapido Matte @Qidi Q2 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "QIDI PLA Rapido Matte AshGray + Retract",
+    "nozzle_temperature": [
+        "220"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "240"
+    ],
+    "pressure_advance": [
+        "0.043"
+    ],
+    "version": "2.3.1.10"
+}
