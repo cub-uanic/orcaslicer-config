@@ -1,12 +1,12 @@
 #!/bin/sh
 
 # crontab -e
+# <-------------
 # # vi:ft=crontab
-# MAILTO=cub.uanic@gmail.com
-#
 #
 # m     h       dom     mon     dow     command
 # */15  *       *       *       *       ~/Library/Application\ Support/OrcaSlicer/backup.sh >/dev/null
+# ------------->
 
 SCRIPT_DIR="$(dirname "$(realpath "$0")")"
 
