@@ -7,7 +7,7 @@
 
 SCRIPT_DIR="$(dirname "$(realpath "$0")")"
 
-cd $SCRIPT_DIR
+cd "$SCRIPT_DIR"
 
 git add -A
 git commit -m update
