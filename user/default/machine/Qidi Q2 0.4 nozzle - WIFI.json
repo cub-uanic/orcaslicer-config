@@ -12,5 +12,6 @@
     "print_host": "192.168.0.111",
     "printer_settings_id": "Qidi Q2 0.4 nozzle - WIFI",
     "purge_in_prime_tower": "0",
+    "support_multi_bed_types": "1",
     "version": "2.3.1.10"
 }
