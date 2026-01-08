@@ -1,4 +1,9 @@
 {
+    "bed_exclude_area": [
+        "0x0",
+        "28x0",
+        "0x28"
+    ],
     "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\n;BEFORE_LAYER_CHANGE HEIGHT=[layer_z] LAYER=[layer_num]\n",
     "change_filament_gcode": "; change !!\n; change !!\n; change !!\n; change !!\n\nM0\n\n; change !!\n; change !!\n; change !!\n; change !!\n",
     "from": "User",
@@ -10,6 +15,7 @@
     "manual_filament_change": "1",
     "name": "Qidi Q2 0.4 nozzle - WIFI",
     "print_host": "192.168.0.111",
+    "printer_notes": "orig excl bed area: 0x0, 11x0, 11x16, 0x16",
     "printer_settings_id": "Qidi Q2 0.4 nozzle - WIFI",
     "purge_in_prime_tower": "0",
     "support_multi_bed_types": "1",
