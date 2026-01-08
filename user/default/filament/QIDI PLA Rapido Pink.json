@@ -7,7 +7,7 @@
         "#FF3399"
     ],
     "filament_flow_ratio": [
-        "0.982"
+        "1"
     ],
     "filament_settings_id": [
         "QIDI PLA Rapido Pink"
@@ -17,10 +17,10 @@
         "2"
     ],
     "hot_plate_temp": [
-        "55"
+        "45"
     ],
     "hot_plate_temp_initial_layer": [
-        "55"
+        "45"
     ],
     "inherits": "QIDI PLA Rapido Matte @Qidi Q2 0.4 nozzle",
     "is_custom_defined": "0",
@@ -29,7 +29,7 @@
         "220"
     ],
     "nozzle_temperature_initial_layer": [
-        "245"
+        "220"
     ],
     "pressure_advance": [
         "0.029"
