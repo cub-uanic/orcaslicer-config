@@ -1,0 +1,19 @@
+{
+    "brim_ears_detection_length": "0.5",
+    "brim_object_gap": "0.22",
+    "brim_type": "outer_only",
+    "brim_width": "4",
+    "elefant_foot_compensation": "0",
+    "from": "User",
+    "inherits": "0.20mm Standard @Qidi Q2",
+    "initial_layer_infill_speed": "50",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @Qidi Q2 - MX hotswap socket",
+    "outer_wall_line_width": "0.21",
+    "print_settings_id": "0.20mm Standard @Qidi Q2 - MX hotswap socket",
+    "skirt_loops": "3",
+    "slow_down_layers": "2",
+    "staggered_inner_seams": "1",
+    "top_shell_layers": "3",
+    "version": "2.3.1.10"
+}
