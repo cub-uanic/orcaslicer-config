@@ -1,0 +1,21 @@
+{
+    "default_acceleration": "4000",
+    "from": "User",
+    "gap_infill_speed": "250",
+    "inherits": "0.20mm Standard @Elegoo Neptune3Pro",
+    "initial_layer_infill_speed": "50",
+    "initial_layer_speed": "50",
+    "inner_wall_acceleration": "2000",
+    "inner_wall_speed": "100",
+    "internal_solid_infill_speed": "200",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @Elegoo Neptune3Pro - TRY",
+    "outer_wall_acceleration": "2000",
+    "outer_wall_speed": "50",
+    "print_settings_id": "0.20mm Standard @Elegoo Neptune3Pro - TRY",
+    "sparse_infill_speed": "250",
+    "support_speed": "200",
+    "top_surface_speed": "150",
+    "travel_speed": "250",
+    "version": "2.3.1.10"
+}

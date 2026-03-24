@@ -1,0 +1,38 @@
+{
+    "activate_air_filtration": [
+        "0"
+    ],
+    "compatible_printers": [],
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_max_volumetric_speed": [
+        "14.5"
+    ],
+    "filament_settings_id": [
+        "PLA Elegoo Black"
+    ],
+    "filament_vendor": [
+        "Elegoo"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @Qidi Q2 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "PLA Elegoo Black",
+    "nozzle_temperature": [
+        "245"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "245"
+    ],
+    "pressure_advance": [
+        "0.017"
+    ],
+    "slow_down_layer_time": [
+        "0"
+    ],
+    "version": "2.3.1.10"
+}

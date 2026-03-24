@@ -1,0 +1,18 @@
+{
+    "brim_type": "no_brim",
+    "brim_width": "3",
+    "enable_prime_tower": "0",
+    "from": "User",
+    "inherits": "0.20mm Standard @Qidi Q2",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @Qidi Q2 - Copy",
+    "print_settings_id": "0.20mm Standard @Qidi Q2 - Copy",
+    "skirt_loops": "2",
+    "sparse_infill_pattern": "crosshatch",
+    "support_type": "normal(auto)",
+    "top_shell_layers": "3",
+    "top_shell_thickness": "0",
+    "version": "2.3.1.10",
+    "wall_generator": "arachne",
+    "wall_loops": "3"
+}

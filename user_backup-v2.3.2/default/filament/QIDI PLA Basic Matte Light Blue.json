@@ -1,0 +1,20 @@
+{
+    "compatible_printers": [],
+    "default_filament_colour": [
+        "#33CCCC"
+    ],
+    "filament_settings_id": [
+        "QIDI PLA Basic Matte Light Blue"
+    ],
+    "from": "User",
+    "inherits": "QIDI PLA Matte Basic @Qidi Q2 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "QIDI PLA Basic Matte Light Blue",
+    "nozzle_temperature": [
+        "195"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "205"
+    ],
+    "version": "2.3.1.10"
+}

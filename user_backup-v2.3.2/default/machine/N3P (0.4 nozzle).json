@@ -1,0 +1,85 @@
+{
+    "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\nBEFORE_LAYER_CHANGE HEIGHT=[layer_z] LAYER=[layer_num]\n\n;; ;BEFORE_LAYER_CHANGE\n;; G92 E0\n;; ;[layer_z]\n\n",
+    "change_filament_gcode": "PAUSE",
+    "deretraction_speed": [
+        "40"
+    ],
+    "extruder_clearance_height_to_lid": "45",
+    "extruder_clearance_height_to_rod": "45",
+    "extruder_clearance_radius": "50",
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Elegoo Neptune 3 Pro 0.4 nozzle",
+    "is_custom_defined": "0",
+    "layer_change_gcode": ";AFTER_LAYER_CHANGE\n;[layer_z]\nAFTER_LAYER_CHANGE\n",
+    "machine_end_gcode": "PRINT_END\n\n;; HAROSH\n;; END_PRINT",
+    "machine_max_acceleration_e": [
+        "4000",
+        "5000"
+    ],
+    "machine_max_acceleration_extruding": [
+        "5000",
+        "500"
+    ],
+    "machine_max_acceleration_retracting": [
+        "5000",
+        "1000"
+    ],
+    "machine_max_acceleration_x": [
+        "5000",
+        "500"
+    ],
+    "machine_max_acceleration_y": [
+        "5000",
+        "500"
+    ],
+    "machine_max_acceleration_z": [
+        "200",
+        "100"
+    ],
+    "machine_max_jerk_e": [
+        "2.5",
+        "5"
+    ],
+    "machine_max_jerk_x": [
+        "10",
+        "8"
+    ],
+    "machine_max_jerk_y": [
+        "10",
+        "8"
+    ],
+    "machine_max_speed_x": [
+        "275",
+        "500"
+    ],
+    "machine_max_speed_y": [
+        "275",
+        "500"
+    ],
+    "machine_max_speed_z": [
+        "20",
+        "10"
+    ],
+    "machine_pause_gcode": "PAUSE",
+    "machine_start_gcode": "M190 S0 ; Remove this if autoemit_temperature_commands is off in Prusa Slicer 2.6 and later\nM109 S0 ; Remove this if autoemit_temperature_commands is off in Prusa Slicer 2.6 and later\n_PRINT_START_PHASE_INIT EXTRUDER={first_layer_temperature[initial_tool]} BED=[first_layer_bed_temperature] MESH_MIN={first_layer_print_min[0]},{first_layer_print_min[1]} MESH_MAX={first_layer_print_max[0]},{first_layer_print_max[1]} LAYERS={total_layer_count} NOZZLE_SIZE={nozzle_diameter[0]}\n; Insert custom gcode here.\n_PRINT_START_PHASE_PREHEAT\n; Insert custom gcode here.\n_PRINT_START_PHASE_PROBING\n; Insert custom gcode here.\n_PRINT_START_PHASE_EXTRUDER\n; Insert custom gcode here.\n_PRINT_START_PHASE_PURGE\n\n; This is the place to put slicer purge lines if you haven't set a non-zero\n; variable_start_purge_length to have START_PRINT automatically calculate and \n; perform the purge (e.g. if using a Mosaic Palette, which requires the slicer\n; to generate the purge).\n\n\n;; POEHALI H={first_layer_temperature[0]} B={first_layer_bed_temperature[0]}\n;; START_PRINT EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]",
+    "manual_filament_change": "1",
+    "min_layer_height": [
+        "0.1"
+    ],
+    "name": "N3P (0.4 nozzle)",
+    "nozzle_type": "undefine",
+    "print_host": "192.168.0.113",
+    "printable_height": "265",
+    "printer_settings_id": "N3P (0.4 nozzle)",
+    "retraction_length": [
+        "0.8"
+    ],
+    "retraction_speed": [
+        "50"
+    ],
+    "support_multi_bed_types": "1",
+    "thumbnails": "600x600/PNG",
+    "time_lapse_gcode": "TIMELAPSE_TAKE_FRAME",
+    "version": "1.8.0.0"
+}

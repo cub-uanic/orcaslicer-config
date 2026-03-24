@@ -1,0 +1,41 @@
+{
+    "activate_air_filtration": [
+        "0"
+    ],
+    "compatible_printers": [],
+    "default_filament_colour": [
+        "#FF3399"
+    ],
+    "enable_pressure_advance": [
+        "0"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "QIDI PLA Rapido Pink - F1.0 NO PA"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "2"
+    ],
+    "hot_plate_temp": [
+        "55"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "55"
+    ],
+    "inherits": "QIDI PLA Rapido Matte @Qidi Q2 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "QIDI PLA Rapido Pink - F1.0 NO PA",
+    "nozzle_temperature": [
+        "220"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "245"
+    ],
+    "pressure_advance": [
+        "0.029"
+    ],
+    "version": "2.3.1.10"
+}
