@@ -3,18 +3,44 @@
     "default_filament_colour": [
         "#33CCCC"
     ],
+    "eng_plate_temp": [
+        "55"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "55"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_settings_id": [
         "QIDI PLA Basic Matte Light Blue"
     ],
     "from": "User",
+    "hot_plate_temp": [
+        "55"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "55"
+    ],
     "inherits": "QIDI PLA Matte Basic @Qidi Q2 0.4 nozzle",
-    "is_custom_defined": "0",
     "name": "QIDI PLA Basic Matte Light Blue",
     "nozzle_temperature": [
         "195"
     ],
     "nozzle_temperature_initial_layer": [
-        "205"
+        "215"
+    ],
+    "textured_cool_plate_temp": [
+        "55"
+    ],
+    "textured_cool_plate_temp_initial_layer": [
+        "55"
+    ],
+    "textured_plate_temp": [
+        "55"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "55"
     ],
     "version": "2.3.1.10"
 }
