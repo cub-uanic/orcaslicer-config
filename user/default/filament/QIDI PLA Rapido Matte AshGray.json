@@ -3,6 +3,9 @@
     "default_filament_colour": [
         "#333333"
     ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_flow_ratio": [
         "1.04"
     ],
@@ -11,7 +14,6 @@
     ],
     "from": "User",
     "inherits": "QIDI PLA Rapido Matte @Qidi Q2 0.4 nozzle",
-    "is_custom_defined": "0",
     "name": "QIDI PLA Rapido Matte AshGray",
     "nozzle_temperature": [
         "220"
@@ -21,6 +23,12 @@
     ],
     "pressure_advance": [
         "0.043"
+    ],
+    "textured_plate_temp": [
+        "55"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "55"
     ],
     "version": "2.3.1.10"
 }
