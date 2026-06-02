@@ -3,6 +3,9 @@
     "default_filament_colour": [
         "#0000FF"
     ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_flow_ratio": [
         "0.95"
     ],
@@ -29,7 +32,6 @@
         "70"
     ],
     "inherits": "Generic PLA @Qidi Q2 0.4 nozzle",
-    "is_custom_defined": "0",
     "name": "PET-G PlastWeld Dark Blue",
     "nozzle_temperature": [
         "243"
@@ -42,6 +44,12 @@
     ],
     "slow_down_layer_time": [
         "0"
+    ],
+    "textured_plate_temp": [
+        "55"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "55"
     ],
     "version": "2.3.1.10"
 }
