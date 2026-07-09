@@ -1,0 +1,42 @@
+{
+    "change_filament_gcode": "; change !!\n; change !!\n; change !!\n; change !!\n\nM0\n\n; change !!\n; change !!\n; change !!\n; change !!\n",
+    "emit_machine_limits_to_gcode": "0",
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Elegoo Neptune 3 Pro 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_max_acceleration_e": [
+        "500",
+        "5000"
+    ],
+    "machine_max_acceleration_retracting": [
+        "500",
+        "1000"
+    ],
+    "machine_max_acceleration_x": [
+        "4000",
+        "500"
+    ],
+    "machine_max_acceleration_y": [
+        "4000",
+        "500"
+    ],
+    "machine_max_acceleration_z": [
+        "200",
+        "100"
+    ],
+    "machine_max_speed_z": [
+        "25",
+        "10"
+    ],
+    "manual_filament_change": "1",
+    "name": "Elegoo Neptune 3 Pro 0.4 nozzle - WIFI",
+    "print_host": "192.168.0.113",
+    "printable_height": "260",
+    "printer_settings_id": "Elegoo Neptune 3 Pro 0.4 nozzle - WIFI",
+    "purge_in_prime_tower": "0",
+    "retraction_length": [
+        "0.5"
+    ],
+    "version": "2.3.1.10"
+}

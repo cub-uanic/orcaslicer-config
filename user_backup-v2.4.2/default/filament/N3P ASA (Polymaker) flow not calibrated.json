@@ -1,0 +1,109 @@
+{
+    "close_fan_the_first_x_layers": [
+        "3"
+    ],
+    "cool_plate_temp": [
+        "110"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "110"
+    ],
+    "default_filament_colour": [
+        "#C400C4"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "110"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "110"
+    ],
+    "fan_cooling_layer_time": [
+        "15"
+    ],
+    "fan_max_speed": [
+        "25"
+    ],
+    "fan_min_speed": [
+        "0"
+    ],
+    "filament_density": [
+        "1.04"
+    ],
+    "filament_flow_ratio": [
+        "0.965"
+    ],
+    "filament_settings_id": [
+        "N3P ASA (Polymaker) flow not calibrated"
+    ],
+    "filament_type": [
+        "ASA"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "6"
+    ],
+    "hot_plate_temp": [
+        "115"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "Generic PLA @Elegoo",
+    "is_custom_defined": "0",
+    "name": "N3P ASA (Polymaker) flow not calibrated",
+    "nozzle_temperature": [
+        "255"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "nozzle_temperature_range_high": [
+        "260"
+    ],
+    "nozzle_temperature_range_low": [
+        "240"
+    ],
+    "overhang_fan_speed": [
+        "70"
+    ],
+    "overhang_fan_threshold": [
+        "25%"
+    ],
+    "pressure_advance": [
+        "0.022"
+    ],
+    "slow_down_layer_time": [
+        "10"
+    ],
+    "slow_down_min_speed": [
+        "5"
+    ],
+    "supertack_plate_temp": [
+        "110"
+    ],
+    "supertack_plate_temp_initial_layer": [
+        "110"
+    ],
+    "temperature_vitrification": [
+        "90"
+    ],
+    "textured_cool_plate_temp": [
+        "110"
+    ],
+    "textured_cool_plate_temp_initial_layer": [
+        "110"
+    ],
+    "textured_plate_temp": [
+        "115"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "110"
+    ],
+    "version": "2.3.0.3"
+}

@@ -1,0 +1,10 @@
+{
+    "from": "User",
+    "inherits": "0.30mm Extra Draft @Qidi Q2",
+    "is_custom_defined": "0",
+    "name": "0.30mm Extra Draft @Qidi Q2 - Copy",
+    "print_settings_id": "0.30mm Extra Draft @Qidi Q2 - Copy",
+    "top_shell_layers": "3",
+    "version": "2.3.1.10",
+    "wall_loops": "3"
+}

@@ -1,0 +1,8 @@
+{
+    "from": "User",
+    "inherits": "0.20mm Standard @Qidi Q2",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @xx - Copy",
+    "print_settings_id": "0.20mm Standard @xx - Copy",
+    "version": "2.3.1.10"
+}
