@@ -1,0 +1,27 @@
+{
+	"brim_type": "outer_only",
+	"brim_width": "3",
+	"elefant_foot_compensation": "0",
+	"from": "User",
+	"inherits": "0.12mm Fine @Qidi Q2",
+	"name": "0.12mm Fine @Qidi Q2 fixed",
+	"print_extruder_id": [
+		"1"
+	],
+	"print_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"print_settings_id": "0.12mm Fine @Qidi Q2 fixed",
+	"reduce_crossing_wall": "1",
+	"resolution": "0.001",
+	"seam_position": "nearest",
+	"seam_slope_conditional": "1",
+	"seam_slope_type": "external",
+	"skirt_loops": "4",
+	"slice_closing_radius": "0.005",
+	"slow_down_layers": "3",
+	"staggered_inner_seams": "1",
+	"version": "2.4.0.6",
+	"wall_generator": "arachne",
+	"wall_loops": "4"
+}
